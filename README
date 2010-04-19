@@ -1,0 +1,9 @@
+El taller esta pensado para ser realizado en Linux, el programma del taller es:
+    1-Base del desarollo con el lenguaje de programacion python
+    2-Base de la programacion con la libreria grafica GTK2+ ocupando
+      el binding pyGtk (permite desarollar aplicaciones graficas con
+      python).
+    3-Estudio del software Pitivi, software de editcion de video
+    4-Base de la programacion con el framework multimedia gstreamer,
+      el cual es usado por exaile para reproducir sonido.
+    5-Hacer un proyecto con esas tecnologias si tenemos tiempo.
