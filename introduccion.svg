@@ -5743,7 +5743,7 @@
          y="-433.09412"
          x="21.597656"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         sodipodi:role="line">Presentacion del languaje de programacion</tspan></text>
+         sodipodi:role="line">Presentacion del lenguaje de programacion</tspan></text>
     <rect
        y="409.71799"
        x="1.7957168"
@@ -5767,7 +5767,7 @@
          x="21.597656"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans Bold"
          sodipodi:role="line"
-         id="tspan3102">Presentacion del languaje de programacion</tspan></text>
+         id="tspan3102">Presentacion del lenguaje de programacion</tspan></text>
     <text
        y="708.89331"
        xml:space="preserve"
@@ -5835,7 +5835,7 @@
            id="tspan29508"
            sodipodi:role="line"
            x="492.46127"
-           y="711.89911">Quien puede dibujar el shema equivalente para los</tspan><tspan
+           y="711.89911">Quien puede dibujar el esquema equivalente para los</tspan><tspan
            id="tspan29809"
            sodipodi:role="line"
            x="492.46127"
@@ -5967,7 +5967,7 @@
              sodipodi:role="line"
              x="170.82097"
              y="472.74005"
-             id="tspan4174-8-2">Mas rapido para probar lo que estamos desarrollando</tspan></text>
+             id="tspan4174-8-2">Más rápido para probar lo que estamos desarrollando</tspan></text>
         <path
            sodipodi:type="arc"
            style="fill:#ffcd01;fill-opacity:1;fill-rule:nonzero;stroke:#d98400;stroke-width:4.68600321;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -5984,7 +5984,7 @@
   <g
      style="display:none"
      jessyink:transitionout="fade"
-     inkscape:label="Shema de ejecucion"
+     inkscape:label="Esquema de ejecucion"
      inkscape:groupmode="layer"
      id="layer4"
      sodipodi:insensitive="true">
@@ -6192,7 +6192,7 @@
          y="379.67969"
          x="64.919922"
          id="tspan8260"
-         sodipodi:role="line">La diferencia  entre  el  shema de  ejecución </tspan><tspan
+         sodipodi:role="line">La diferencia  entre  el  esquema de  ejecución </tspan><tspan
          id="tspan8266"
          y="429.67969"
          x="64.919922"
@@ -6427,7 +6427,7 @@
            id="tspan195602"
            y="368.98364"
            x="163.62582"
-           sodipodi:role="line">las comandas adentro del terminal</tspan></text>
+           sodipodi:role="line">las comandos adentro del terminal</tspan></text>
       <path
          transform="translate(-3.8685475,53.688493)"
          style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -6474,7 +6474,7 @@
            id="tspan195650"
            y="432.2139"
            x="78.749435"
-           sodipodi:role="line">y después es posible ocupar las comandas python </tspan><tspan
+           sodipodi:role="line">y después es posible ocupar los comandos python </tspan><tspan
            id="tspan195654"
            y="469.09708"
            x="78.749435"
@@ -6501,7 +6501,7 @@
   </g>
   <g
      style="display:none"
-     inkscape:label="Indentacion"
+     inkscape:label="Indentación"
      inkscape:groupmode="layer"
      id="layer7"
      sodipodi:insensitive="true">
@@ -6535,7 +6535,7 @@
            y="269.42496"
            x="170.82098"
            sodipodi:role="line"
-           id="tspan5304">Indentacion En python la indentacion es MUY importante, </tspan><tspan
+           id="tspan5304">En python la indentación es MUY importante, </tspan><tspan
            y="304.42496"
            x="170.82098"
            sodipodi:role="line"
@@ -6543,7 +6543,7 @@
            y="339.42496"
            x="170.82098"
            sodipodi:role="line"
-           id="tspan5310">la indentacion tiene esa funcion</tspan><tspan
+           id="tspan5310">la indentación tiene esa funcion</tspan><tspan
            y="374.42496"
            x="170.82098"
            sodipodi:role="line"
@@ -6590,7 +6590,7 @@
            y="268.22879"
            x="172.04587"
            sodipodi:role="line"
-           id="tspan10384">convención de indentacion. Tienen que configurar </tspan><tspan
+           id="tspan10384">convención de indentación. Tienen que configurar </tspan><tspan
            y="303.22879"
            x="172.04587"
            sodipodi:role="line"
@@ -6599,7 +6599,7 @@
            x="172.04587"
            sodipodi:role="line"
            id="tspan10388"
-           style="fill:#ff0000;stroke:#ff0000">Si no lo haces vamos a tener error inutiles!!!</tspan></text>
+           style="fill:#ff0000;stroke:#ff0000">Si no lo haces vamos a tener errores inutiles!!!</tspan></text>
     </g>
     <rect
        y="490.88528"
@@ -6638,7 +6638,7 @@
              sodipodi:role="line"
              x="203.4969"
              y="339.45389"
-             id="tspan36224-8">Los tipos de las variables son dynamicos. </tspan><tspan
+             id="tspan36224-8">Los tipos de las variables son dinámicos. </tspan><tspan
              sodipodi:role="line"
              x="203.4969"
              y="374.45389"
@@ -6700,7 +6700,7 @@
            sodipodi:role="line"
            x="191.04449"
            y="215.51945"
-           id="tspan36224">commenzando por una letra.</tspan></text>
+           id="tspan36224">comenzando por una letra.</tspan></text>
       <path
          d="m 146.57654,277.8847 -10.90635,-1.50058 -7.30149,8.23945 -1.94311,-10.83626 -10.09247,-4.398 9.70544,-5.1966 1.064,-10.95756 7.94141,7.62458 10.75006,-2.37414 -4.79739,9.90885 5.5799,9.49026 z"
          id="path2815-7"
@@ -6781,7 +6781,7 @@
              id="tspan7859-7"
              y="257.65308"
              x="296.9386"
-             sodipodi:role="line">Podemos hacer affectacions multiple</tspan></text>
+             sodipodi:role="line">Podemos hacer asignaciones multiple</tspan></text>
         <path
            transform="translate(128.70648,-23.775394)"
            style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -7022,7 +7022,7 @@
   <g
      id="g58534"
      inkscape:groupmode="layer"
-     inkscape:label="Instuccion &quot;while&quot;"
+     inkscape:label="Instrucción &quot;while&quot;"
      style="display:none"
      sodipodi:insensitive="true">
     <g
@@ -7045,7 +7045,7 @@
                y="131.70854"
                x="367.42621"
                sodipodi:role="line"
-               id="tspan58544">La synthaxis del while es muy tradicional</tspan></text>
+               id="tspan58544">La sintaxis del while es muy tradicional</tspan></text>
           <path
              transform="translate(199.19409,-149.71992)"
              style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -7190,7 +7190,7 @@
                y="131.70854"
                x="367.42621"
                sodipodi:role="line"
-               id="tspan72415-3">Se pueden agragar datos de cualquier en un lista</tspan></text>
+               id="tspan72415-3">Se pueden agragar cualquier dato en un lista</tspan></text>
         </g>
         <path
            sodipodi:type="arc"
@@ -7254,7 +7254,7 @@
   </g>
   <g
      style="display:none"
-     inkscape:label="Instuccion &quot;For&quot;"
+     inkscape:label="Instrucción &quot;For&quot;"
      inkscape:groupmode="layer"
      id="g7843"
      sodipodi:insensitive="true">
@@ -7339,7 +7339,7 @@
          id="tspan17306"
          sodipodi:role="line"
          x="145.52373"
-         y="261.97824">Para pedir datos al usuario, hay que occupar la fonccion</tspan><tspan
+         y="261.97824">Para pedir datos al usuario, hay que occupar la función</tspan><tspan
          id="tspan17318"
          sodipodi:role="line"
          x="145.52373"
@@ -7425,7 +7425,7 @@
            x="153.73257"
            y="227.02321"
            id="tspan24988"
-           style="font-size:28px">Ahora que saben un poco como funcciona el languaje,</tspan><tspan
+           style="font-size:28px">Ahora que saben un poco como funciona el lenguaje,</tspan><tspan
            sodipodi:role="line"
            x="153.73257"
            y="262.02319"
@@ -7435,7 +7435,7 @@
            x="153.73257"
            y="297.02319"
            id="tspan24992"
-           style="font-size:28px">programar funcionnas, classe... </tspan><tspan
+           style="font-size:28px">programar funciones, classe... </tspan><tspan
            sodipodi:role="line"
            x="153.73257"
            y="332.02319"
@@ -7702,7 +7702,7 @@
            sodipodi:role="line"
            x="78.749435"
            y="432.2139"
-           id="tspan29834">apprentisaje.</tspan></text>
+           id="tspan29834">aprendizaje.</tspan></text>
       <path
          sodipodi:type="arc"
          style="fill:#ffcd01;fill-opacity:1;fill-rule:nonzero;stroke:#d98400;stroke-width:4.68600321;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -7894,7 +7894,7 @@
              sodipodi:role="line"
              x="165.26582"
              y="244.4268"
-             id="tspan29850-7">__init__ (No olvidar los 2 yon bajo):</tspan></text>
+             id="tspan29850-7">__init__ (No olvidar los 2 guiones abajo):</tspan></text>
       </g>
       <g
          transform="translate(-4.5937344e-6,209.80541)"
@@ -7912,7 +7912,7 @@
              id="tspan29890-0"
              sodipodi:role="line"
              x="182.42322"
-             y="282.09045">En python, es la fonccion que esta llamada para instanciar</tspan><tspan
+             y="282.09045">En python, es la función que es llamada durante la instanciación</tspan><tspan
              id="tspan50105"
              sodipodi:role="line"
              x="182.42322"
@@ -7991,7 +7991,7 @@
          y="360.71426"
          x="115.13413"
          sodipodi:role="line"
-         id="tspan49842">        print &quot;Instacacion de la classe \n&quot;</tspan><tspan
+         id="tspan49842">        print &quot;Instanciación de la classe \n&quot;</tspan><tspan
          y="391.41119"
          x="115.13413"
          sodipodi:role="line"
@@ -8053,7 +8053,7 @@
   <g
      style="display:none"
      jessyink:transitionin="pop"
-     inkscape:label="La fonccion princpal &quot;main'"
+     inkscape:label="La función princpal &quot;main'"
      inkscape:groupmode="layer"
      id="g68151"
      sodipodi:insensitive="true">
@@ -8090,7 +8090,7 @@
              id="tspan68159"
              y="256.27954"
              x="213.29614"
-             sodipodi:role="line">La fonccion &quot;main&quot; se hace asi:</tspan></text>
+             sodipodi:role="line">La función &quot;main&quot; se hace asi:</tspan></text>
       </g>
       <text
          id="text68157-6"
