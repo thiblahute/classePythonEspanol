@@ -34,7 +34,7 @@
      inkscape:cx="706.84678"
      inkscape:cy="378.03088"
      inkscape:document-units="px"
-     inkscape:current-layer="g3758"
+     inkscape:current-layer="layer5"
      width="1024px"
      height="768px"
      inkscape:window-width="1440"
@@ -6195,7 +6195,7 @@
      id="g3758"
      inkscape:groupmode="layer"
      inkscape:label="Glade 2"
-     style="display:inline">
+     style="display:none">
     <g
        jessyink:effectIn="name:appear;order:2;length:800"
        id="g16470"
@@ -6408,7 +6408,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Ejercicio"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -6418,23 +6418,38 @@
          sodipodi:role="line"
          x="131.35547"
          y="320.03516"
-         id="tspan57732"
-         style="font-size:40px">Descarguen   el    ultimo   ejemplo  y  </tspan><tspan
+         id="tspan57758"
+         style="font-size:40px">Descarguen    el  ultimo   ejemplo en el </tspan><tspan
          sodipodi:role="line"
          x="131.35547"
          y="370.03516"
-         id="tspan57758"
-         style="font-size:40px">molificando   para    que   cuando  el  </tspan><tspan
+         style="font-size:40px"
+         id="tspan7846">git [1]  y  molificando para que cuando  </tspan><tspan
          sodipodi:role="line"
          x="131.35547"
          y="420.03516"
          id="tspan57760"
-         style="font-size:40px">usuario hace un clic en el botón &quot;OK&quot; </tspan><tspan
+         style="font-size:40px">el usuario hace un clic en el botón &quot;OK&quot; </tspan><tspan
          sodipodi:role="line"
          x="131.35547"
          y="470.03516"
          id="tspan57764"
-         style="font-size:40px">un mensaje aparezca en el   terminal  </tspan></text>
+         style="font-size:40px">un mensaje aparezca en el   terminal.  </tspan><tspan
+         sodipodi:role="line"
+         x="131.35547"
+         y="520.03516"
+         style="font-size:40px"
+         id="tspan7852" /><tspan
+         sodipodi:role="line"
+         x="131.35547"
+         y="570.03516"
+         style="font-size:40px"
+         id="tspan7854" /><tspan
+         sodipodi:role="line"
+         x="131.35547"
+         y="608.07416"
+         style="font-size:28px"
+         id="tspan7856">[1] http://github.com/thiblahute/classePythonEspanol  </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
