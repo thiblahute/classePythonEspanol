@@ -31,10 +31,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.79036458"
-     inkscape:cx="916.87644"
+     inkscape:cx="461.39044"
      inkscape:cy="378.03088"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      width="1024px"
      height="768px"
      inkscape:window-width="1440"
@@ -6008,7 +6008,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Glade"
-     style="display:inline">
+     style="display:none">
     <text
        transform="scale(1.0109872,0.98913218)"
        id="text3820"
@@ -13467,6 +13467,47 @@ utIAAAAASUVORK5CYII=
         </g>
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Ejercicio">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="131.35547"
+       y="320.03516"
+       id="text57716"><tspan
+         sodipodi:role="line"
+         x="131.35547"
+         y="320.03516"
+         id="tspan57732"
+         style="font-size:40px">Descarguen   el    ultimo   ejemplo  y  </tspan><tspan
+         sodipodi:role="line"
+         x="131.35547"
+         y="370.03516"
+         id="tspan57758"
+         style="font-size:40px">molificando   para    que   cuando  el  </tspan><tspan
+         sodipodi:role="line"
+         x="131.35547"
+         y="420.03516"
+         id="tspan57760"
+         style="font-size:40px">usuario hace un clic en el botón &quot;OK&quot; </tspan><tspan
+         sodipodi:role="line"
+         x="131.35547"
+         y="470.03516"
+         id="tspan57764"
+         style="font-size:40px">un mensaje aparezca en el   terminal  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="432.7117"
+       y="296.06589"
+       id="text57766"><tspan
+         sodipodi:role="line"
+         id="tspan57768"
+         x="432.7117"
+         y="296.06589"> </tspan></text>
   </g>
   <script
      id="JessyInk"
