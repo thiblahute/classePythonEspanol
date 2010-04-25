@@ -31,10 +31,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.81640625"
-     inkscape:cx="576.60161"
-     inkscape:cy="342.50933"
+     inkscape:cx="688.31808"
+     inkscape:cy="336.65409"
      inkscape:document-units="px"
-     inkscape:current-layer="g16497"
+     inkscape:current-layer="g3758"
      width="1024px"
      height="768px"
      inkscape:window-width="1440"
@@ -42,7 +42,9 @@
      inkscape:window-x="0"
      inkscape:window-y="25"
      showgrid="false"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <defs
      id="defs2203">
     <linearGradient
@@ -5355,6 +5357,90 @@
        inkscape:vp_z="1 : 0.5 : 1"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
        id="perspective3943" />
+    <inkscape:perspective
+       id="perspective20423"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective22391" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective22405" />
+    <inkscape:perspective
+       id="perspective32320"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective32356"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective32371"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective32371-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective32432"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective32470"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective32518"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective32580"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective32614"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata2206">
@@ -5524,10 +5610,178 @@
          sodipodi:role="line">Para la Universidad de Playa Ancha</tspan></text>
   </g>
   <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Requisitos"
+     style="display:none">
+    <g
+       id="g32404"
+       transform="translate(-9.373442e-8,-11.320518)">
+      <path
+         transform="translate(-24.833122,-68.04898)"
+         style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="star"
+         sodipodi:sides="5"
+         sodipodi:r2="8.1682901"
+         sodipodi:r1="16.515289"
+         sodipodi:cy="268.72366"
+         sodipodi:cx="132.83499"
+         sodipodi:arg2="1.2163211"
+         sodipodi:arg1="0.5880026"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:flatsided="false"
+         id="path29494-9-7-0"
+         d="m 146.57654,277.8847 -10.90635,-1.50058 -7.30149,8.23945 -1.94311,-10.83626 -10.09247,-4.398 9.70544,-5.1966 1.064,-10.95756 7.94141,7.62458 10.75006,-2.37414 -4.79739,9.90885 5.5799,9.49026 z" />
+      <text
+         y="212.56616"
+         xml:space="preserve"
+         x="146.27226"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+         sodipodi:linespacing="125%"
+         id="text29496-9-8-5"><tspan
+           y="212.56616"
+           x="146.27226"
+           sodipodi:role="line"
+           id="tspan3863-1-4">La libraria gtk  con los bindings para Python (paquete</tspan><tspan
+           y="247.56616"
+           x="146.27226"
+           sodipodi:role="line"
+           id="tspan32493">python-gtk2 en los sistemas basados en debian)</tspan></text>
+    </g>
+    <g
+       id="g32495"
+       transform="translate(-9.3734414e-8,220.81481)">
+      <path
+         transform="translate(-24.833122,76.28102)"
+         style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="star"
+         sodipodi:sides="5"
+         sodipodi:r2="8.1682901"
+         sodipodi:r1="16.515289"
+         sodipodi:cy="268.72366"
+         sodipodi:cx="132.83499"
+         sodipodi:arg2="1.2163211"
+         sodipodi:arg1="0.5880026"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:flatsided="false"
+         id="path29494-9-7-3"
+         d="m 146.57654,277.8847 -10.90635,-1.50058 -7.30149,8.23945 -1.94311,-10.83626 -10.09247,-4.398 9.70544,-5.1966 1.064,-10.95756 7.94141,7.62458 10.75006,-2.37414 -4.79739,9.90885 5.5799,9.49026 z" />
+      <text
+         y="352.77179"
+         xml:space="preserve"
+         x="147.4971"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+         sodipodi:linespacing="125%"
+         id="text29496-9-8-6"><tspan
+           y="352.77179"
+           x="147.4971"
+           sodipodi:role="line"
+           id="tspan3863-1-47">El software Devhelp para ver la documentacion (paquete</tspan><tspan
+           y="387.77179"
+           x="147.4971"
+           sodipodi:role="line"
+           id="tspan32508">devhelp en los sistemas basados en debian)</tspan></text>
+    </g>
+    <g
+       id="g32500"
+       transform="translate(0.25734591,176.46535)">
+      <path
+         transform="translate(-25.090468,-4.235593)"
+         style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="star"
+         sodipodi:sides="5"
+         sodipodi:r2="8.1682901"
+         sodipodi:r1="16.515289"
+         sodipodi:cy="268.72366"
+         sodipodi:cx="132.83499"
+         sodipodi:arg2="1.2163211"
+         sodipodi:arg1="0.5880026"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:flatsided="false"
+         id="path29494-9-7-3-8"
+         d="m 146.57654,277.8847 -10.90635,-1.50058 -7.30149,8.23945 -1.94311,-10.83626 -10.09247,-4.398 9.70544,-5.1966 1.064,-10.95756 7.94141,7.62458 10.75006,-2.37414 -4.79739,9.90885 5.5799,9.49026 z" />
+      <text
+         y="274.37958"
+         xml:space="preserve"
+         x="146.01488"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+         sodipodi:linespacing="125%"
+         id="text29496-9-8-6-5"><tspan
+           id="tspan32452"
+           y="274.37958"
+           x="146.01488"
+           sodipodi:role="line">La documentacion de Pygtk  (paquete python-gtk2-doc </tspan><tspan
+           id="tspan32456"
+           y="309.37958"
+           x="146.01488"
+           sodipodi:role="line">en los systemas basados en debian)</tspan></text>
+    </g>
+    <g
+       transform="translate(-9.3734416e-8,115.54551)"
+       style="display:inline"
+       id="g32404-2">
+      <path
+         transform="translate(-24.833122,-68.04898)"
+         style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="star"
+         sodipodi:sides="5"
+         sodipodi:r2="8.1682901"
+         sodipodi:r1="16.515289"
+         sodipodi:cy="268.72366"
+         sodipodi:cx="132.83499"
+         sodipodi:arg2="1.2163211"
+         sodipodi:arg1="0.5880026"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:flatsided="false"
+         id="path29494-9-7-0-6"
+         d="m 146.57654,277.8847 -10.90635,-1.50058 -7.30149,8.23945 -1.94311,-10.83626 -10.09247,-4.398 9.70544,-5.1966 1.064,-10.95756 7.94141,7.62458 10.75006,-2.37414 -4.79739,9.90885 5.5799,9.49026 z" />
+      <text
+         y="212.56616"
+         xml:space="preserve"
+         x="146.27226"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+         sodipodi:linespacing="125%"
+         id="text29496-9-8-5-6"><tspan
+           y="212.56616"
+           x="146.27226"
+           sodipodi:role="line"
+           id="tspan3863-1-4-4">El programa Glade (paquete glade en los sistemas basados </tspan><tspan
+           y="247.56616"
+           x="146.27226"
+           sodipodi:role="line"
+           id="tspan32506">en  debian)</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g32495-2"
+       transform="translate(-4.3036693,380.24654)">
+      <text
+         y="312.59955"
+         xml:space="preserve"
+         x="60.473183"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+         sodipodi:linespacing="125%"
+         id="text29496-9-8-6-9"><tspan
+           y="312.59955"
+           x="60.473183"
+           sodipodi:role="line"
+           id="tspan32508-6">Para instalar todo de una en los sistemas basados en debian:</tspan><tspan
+           y="347.59955"
+           x="60.473183"
+           sodipodi:role="line"
+           id="tspan32546">$sudo apt-get install python-gtk2 glade python-gtk2-doc devhelp</tspan></text>
+    </g>
+  </g>
+  <g
      style="display:none"
      inkscape:label="Introduccion"
      inkscape:groupmode="layer"
-     id="layer2">
+     id="layer2"
+     sodipodi:insensitive="true">
     <g
        jessyink:effectIn="name:appear;order:2;length:800"
        transform="translate(-60.657235,-56.72325)"
@@ -5738,33 +5992,30 @@
     </g>
   </g>
   <g
-     id="g3758"
      inkscape:groupmode="layer"
+     id="layer3"
      inkscape:label="Glade"
-     style="display:inline">
+     style="display:none">
     <text
        id="text3820"
-       y="180.05742"
-       x="66.316406"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       xml:space="preserve"><tspan
-         style="-inkscape-font-specification:Sans;font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-         y="180.05742"
-         x="66.316406"
-         id="tspan3822"
-         sodipodi:role="line">Glade  es  un programa  grafica que permite</tspan><tspan
-         style="-inkscape-font-specification:Sans;font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       y="170.76138"
+       x="54.730225"
+       style="font-size:39.56528854px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       transform="scale(1.0109872,0.98913218)"><tspan
+         style="font-size:27.6957016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan3824"
-         y="230.05742"
-         x="66.316406"
-         sodipodi:role="line">de diseñar interfaces graficas en GTK+ muy </tspan><tspan
-         style="-inkscape-font-specification:Sans;font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         y="170.76138"
+         x="54.730225"
+         sodipodi:role="line">Glade  es  un programa  grafico que permite de diseñar interfaces </tspan><tspan
+         style="font-size:27.6957016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan3826"
-         y="280.05743"
-         x="66.316406"
-         sodipodi:role="line">facilmente.</tspan></text>
+         y="205.38101"
+         x="54.730225"
+         sodipodi:role="line">graficas en GTK+ muy facilmente.</tspan></text>
     <g
-       transform="translate(-60.657235,116.75532)"
+       jessyink:effectIn="name:appear;order:2;length:800"
+       transform="matrix(1,0,0,0.97838249,-60.657235,2.2910568)"
        id="g3835-4"
        style="display:inline">
       <path
@@ -5793,15 +6044,138 @@
            id="tspan29498-1"
            sodipodi:role="line"
            x="206.92947"
-           y="251.37067">Genera archvo XML (GladeXML), que describe la </tspan><tspan
+           y="251.37067">Genera archivos XML (GladeXML), que describen la </tspan><tspan
            id="tspan3863"
            sodipodi:role="line"
            x="206.92947"
            y="286.37067">interfaza grafica</tspan></text>
     </g>
     <g
+       transform="matrix(1,0,0,0.97838249,-60.657235,81.613196)"
+       id="g32652"
+       jessyink:effectIn="name:pop;order:3;length:800">
+      <path
+         d="m 146.57654,277.8847 -10.90635,-1.50058 -7.30149,8.23945 -1.94311,-10.83626 -10.09247,-4.398 9.70544,-5.1966 1.064,-10.95756 7.94141,7.62458 10.75006,-2.37414 -4.79739,9.90885 5.5799,9.49026 z"
+         id="path29494-9-7"
+         inkscape:flatsided="false"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         sodipodi:arg1="0.5880026"
+         sodipodi:arg2="1.2163211"
+         sodipodi:cx="132.83499"
+         sodipodi:cy="268.72366"
+         sodipodi:r1="16.515289"
+         sodipodi:r2="8.1682901"
+         sodipodi:sides="5"
+         sodipodi:type="star"
+         style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="translate(35.824113,-29.244483)" />
+      <text
+         id="text29496-9-8"
+         sodipodi:linespacing="125%"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="206.92947"
+         xml:space="preserve"
+         y="251.37067"><tspan
+           id="tspan3863-1"
+           sodipodi:role="line"
+           x="206.92947"
+           y="251.37067">La interfaz de Glade:</tspan></text>
+    </g>
+    <image
+       xlink:href="file:///home/thibault/Bureau/Screenshot-4.png"
+       width="729.41125"
+       height="353.00214"
+       id="image32358"
+       x="155.86855"
+       y="339.71887"
+       jessyink:effectIn="name:pop;order:3;length:800" />
+    <rect
+       jessyink:view="name:view;order:4;length:800"
+       style="fill:#ff0000;fill-opacity:0;stroke:#164450;stroke-width:1.69171894;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+       id="rect32702"
+       width="125.24608"
+       height="340.82501"
+       x="159.08029"
+       y="399.15686"
+       ry="4.6628222" />
+    <text
+       xml:space="preserve"
+       style="font-size:39.56528854px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="209.04314"
+       y="710.5069"
+       id="text32566"
+       transform="scale(1.0109872,0.9891322)"
+       jessyink:effectIn="name:pop;order:3;length:800"><tspan
+         sodipodi:role="line"
+         x="209.04314"
+         y="710.5069"
+         id="tspan32570"
+         style="font-size:27.6957016px;fill:#ff0000">Widgets</tspan></text>
+    <rect
+       ry="4.6628222"
+       y="400.53589"
+       x="300.0957"
+       height="363.78946"
+       width="378.48804"
+       id="rect34788"
+       style="fill:#ff0000;fill-opacity:0;stroke:#164450;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+       jessyink:view="name:view;order:5;length:800" />
+    <text
+       xml:space="preserve"
+       style="font-size:27.6957016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="388.91354"
+       y="724.20538"
+       id="text32548"
+       transform="scale(1.0109872,0.9891322)"
+       jessyink:effectIn="name:pop;order:3;length:800"><tspan
+         sodipodi:role="line"
+         id="tspan32550"
+         x="388.91354"
+         y="724.20538"
+         style="fill:#ff0000">Visualizacion </tspan><tspan
+         sodipodi:role="line"
+         x="388.91354"
+         y="758.82501"
+         id="tspan32552"
+         style="fill:#ff0000">de la interfaz</tspan></text>
+    <rect
+       jessyink:view="name:view;order:6;length:800"
+       style="fill:#ff0000;fill-opacity:0;stroke:#164450;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+       id="rect36860"
+       width="205.77991"
+       height="369.91388"
+       x="683.48328"
+       y="399.311"
+       ry="4.6628222" />
+    <text
+       xml:space="preserve"
+       style="font-size:39.56528854px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       x="651.88733"
+       y="727.14404"
+       id="text32566-3"
+       transform="scale(1.0109872,0.9891322)"
+       jessyink:effectIn="name:pop;order:3;length:800"><tspan
+         sodipodi:role="line"
+         x="651.88733"
+         y="727.14404"
+         id="tspan32570-4"
+         style="font-size:27.6957016px;fill:#ff0000">Configuracion</tspan><tspan
+         sodipodi:role="line"
+         x="651.88733"
+         y="761.76367"
+         style="font-size:27.6957016px;fill:#ff0000"
+         id="tspan32604">de cada widget</tspan></text>
+  </g>
+  <g
+     id="g3758"
+     inkscape:groupmode="layer"
+     inkscape:label="Glade 2"
+     style="display:inline">
+    <g
+       jessyink:effectIn="name:appear;order:2;length:800"
        id="g16470"
-       transform="translate(-60.657235,230.15962)">
+       transform="translate(-60.657235,194.57421)">
       <path
          d="m 146.57654,277.8847 -10.90635,-1.50058 -7.30149,8.23945 -1.94311,-10.83626 -10.09247,-4.398 9.70544,-5.1966 1.064,-10.95756 7.94141,7.62458 10.75006,-2.37414 -4.79739,9.90885 5.5799,9.49026 z"
          id="path29494-9-5"
@@ -5835,67 +6209,115 @@
            y="286.37067">descrita en este documento.</tspan></text>
     </g>
     <g
-       id="g16487">
+       id="g32288">
       <rect
-         jessyink:view="name:view;order:3;length:800"
-         ry="4.8993902"
-         y="542.62415"
-         x="8.5763311"
-         height="161.67993"
-         width="562.21576"
-         id="rect18458"
-         style="fill:#ffffff;fill-opacity:0;stroke:#164450;stroke-width:2.00433707;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
-      <image
-         xlink:href="file:///home/thibault/Bureau/Screenshot.png"
-         width="563.52338"
-         height="162.55981"
-         id="image3913"
-         x="7.851676"
-         y="540.95935" />
-      <text
-         id="text3917"
-         y="731.99158"
-         x="179.89415"
-         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           style="font-size:28px"
-           y="731.99158"
-           x="179.89415"
-           id="tspan3919"
-           sodipodi:role="line">ejemplo.py</tspan></text>
-    </g>
-    <g
-       id="g16497">
-      <rect
-         style="fill:#ffffff;fill-opacity:0;stroke:#164450;stroke-width:2.01144218;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
-         id="rect16503"
-         width="363.77805"
-         height="214.34264"
-         x="638.1684"
-         y="491.18274"
-         ry="4.9558988"
+         style="fill:#ffffff;fill-opacity:0;stroke:#164450;stroke-width:10.58615875;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+         id="rect22446"
+         width="377.46814"
+         height="223.81995"
+         x="35.672619"
+         y="519.49384"
+         ry="5.5557156"
          jessyink:view="name:view;order:4;length:800" />
       <g
-         id="g16492">
+         jessyink:effectIn="name:appear;order:3;length:800"
+         transform="matrix(0.27338034,0,0,0.46026951,101.03226,334.18133)"
+         id="g16487">
+        <text
+           transform="scale(1.2494062,0.80038022)"
+           xml:space="preserve"
+           style="font-size:179.55433655px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="142.45789"
+           y="1109.3051"
+           id="text3917"><tspan
+             sodipodi:role="line"
+             id="tspan3919"
+             x="142.45789"
+             y="1109.3051"
+             style="font-size:78.93476105px">ejemplo.py</tspan></text>
         <image
-           y="489.52631"
-           x="638.40948"
-           id="image3931"
-           height="214.55743"
-           width="365.62161"
-           xlink:href="file:///home/thibault/Bureau/Screenshot-1.png" />
+           xlink:href="file:///home/thibault/Bureau/Screenshot-2.png"
+           width="1423.8317"
+           height="426.90881"
+           id="image20425"
+           x="-259.82944"
+           y="392.22339" />
+        <rect
+           jessyink:view="name:view;order:4;length:800"
+           ry="10.211035"
+           y="400.61069"
+           x="65"
+           height="411.36612"
+           width="200"
+           id="rect28341"
+           style="fill:#ffffff;fill-opacity:0;stroke:#164450;stroke-width:10.44667625;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
       </g>
-      <text
-         id="text3917-0"
-         y="727.62891"
-         x="736.97394"
-         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-         xml:space="preserve"><tspan
-           style="font-size:28px"
-           y="727.62891"
-           x="736.97394"
-           id="tspan3919-2"
-           sodipodi:role="line">ejemplo.glade</tspan></text>
+      <rect
+         jessyink:view="name:view;order:5;length:800"
+         ry="12.1013"
+         y="515.23346"
+         x="429.40231"
+         height="235.16376"
+         width="317.14017"
+         id="rect28343"
+         style="fill:#ffffff;fill-opacity:0;stroke:#164450;stroke-width:2.18536186;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+      <g
+         jessyink:effectIn="name:appear;order:3;length:800"
+         transform="matrix(0.87343507,0,0,0.91965588,-129.4889,64.880797)"
+         id="g16497">
+        <g
+           id="g16492">
+          <image
+             xlink:href="file:///home/thibault/Bureau/Screenshot-1.png"
+             width="365.62161"
+             height="214.55743"
+             id="image3931"
+             x="638.40948"
+             y="489.52631" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+           x="710.5636"
+           y="738.50262"
+           id="text3917-0"><tspan
+             sodipodi:role="line"
+             id="tspan3919-2"
+             x="710.5636"
+             y="738.50262"
+             style="font-size:31.24136734px">ejemplo.glade</tspan></text>
+      </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:#164450;stroke-width:2.19954872;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+         id="rect30316"
+         width="243.55138"
+         height="231.30258"
+         x="755.85095"
+         y="516.99921"
+         ry="5.6473012"
+         jessyink:view="name:view;order:6;length:800" />
+      <g
+         jessyink:effectIn="name:appear;order:3;length:800"
+         id="g22441">
+        <image
+           xlink:href="file:///home/thibault/Bureau/4.png"
+           width="243.32057"
+           height="195.3938"
+           id="image22407"
+           x="756.33978"
+           y="515.61963" />
+        <text
+           id="text22411"
+           y="745.57898"
+           x="808.06842"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:28px"
+             y="745.57898"
+             x="808.06842"
+             id="tspan22413"
+             sodipodi:role="line">Resultado</tspan></text>
+      </g>
     </g>
   </g>
   <script
@@ -8248,13 +8670,4 @@ String.prototype.trim = function()
 }
 
 </script>
-  <rect
-     jessyink:view="name:view;order:4;length:800"
-     ry="4.8995214"
-     y="491.17703"
-     x="619.78949"
-     height="213.12917"
-     width="398.08588"
-     id="rect14522"
-     style="fill:#ffffff;fill-opacity:0;stroke:#164450;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
 </svg>
