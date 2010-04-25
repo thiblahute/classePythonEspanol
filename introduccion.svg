@@ -31,10 +31,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.81640625"
-     inkscape:cx="512"
+     inkscape:cx="627.46279"
      inkscape:cy="384"
      inkscape:document-units="px"
-     inkscape:current-layer="g35704"
+     inkscape:current-layer="g68423"
      width="1024px"
      height="768px"
      inkscape:window-width="1440"
@@ -5706,7 +5706,7 @@
          style="fill:url(#linearGradient170568-4-6);fill-opacity:1"
          id="path1950" />
       <path
-         d="m 110.46717,132.28575 a 48.948285,8.6066906 0 1 1 -97.896571,0 48.948285,8.6066906 0 1 1 97.896571,0 z"
+         d="m 110.46717,132.28575 a 48.948285,8.6066907 0 1 1 -97.896571,0 48.948285,8.6066907 0 1 1 97.896571,0 z"
          transform="matrix(0.73406,0,0,0.809524,16.24958,27.00935)"
          style="opacity:0.44382019;fill:url(#radialGradient170735);fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path1894" />
@@ -5714,7 +5714,7 @@
   </g>
   <g
      transform="translate(-2,-2)"
-     style="display:none"
+     style="display:inline"
      inkscape:label="Title"
      inkscape:groupmode="layer"
      id="layer1"
@@ -5743,7 +5743,7 @@
          y="-433.09412"
          x="21.597656"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         sodipodi:role="line">Presentacion del lenguaje de programacion</tspan></text>
+         sodipodi:role="line">Presentación del lenguaje de programación</tspan></text>
     <rect
        y="409.71799"
        x="1.7957168"
@@ -5767,7 +5767,7 @@
          x="21.597656"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans Bold"
          sodipodi:role="line"
-         id="tspan3102">Presentacion del lenguaje de programacion</tspan></text>
+         id="tspan3102">Presentación del lenguaje de programación</tspan></text>
     <text
        y="708.89331"
        xml:space="preserve"
@@ -5821,27 +5821,6 @@
            y="251.37067">Lenguaje interpretado (bash, shell...)</tspan></text>
     </g>
     <g
-       jessyink:effectIn="name:appear;order:6;length:800"
-       id="g29500"
-       transform="translate(19.443024,-14.723328)"
-       style="display:inline">
-      <text
-         id="text29502"
-         sodipodi:linespacing="125%"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-         x="492.46127"
-         xml:space="preserve"
-         y="711.89911"><tspan
-           id="tspan29508"
-           sodipodi:role="line"
-           x="492.46127"
-           y="711.89911">Quien puede dibujar el esquema equivalente para los</tspan><tspan
-           id="tspan29809"
-           sodipodi:role="line"
-           x="492.46127"
-           y="746.89911"> lenguajes compilados?</tspan></text>
-    </g>
-    <g
        id="g4233-0"
        transform="translate(54.036701,-54.971596)"
        style="display:inline"
@@ -5859,7 +5838,7 @@
            sodipodi:role="line">Tiempo de ejecución mas largo</tspan></text>
       <path
          transform="matrix(0.6261323,0,0,0.6545928,100.09875,157.35879)"
-         d="m 91.660039,462.46655 c 0,8.43708 -7.15049,15.27668 -15.971067,15.27668 -8.820576,0 -15.971066,-6.8396 -15.971066,-15.27668 0,-8.43707 7.15049,-15.27667 15.971066,-15.27667 8.820577,0 15.971067,6.8396 15.971067,15.27667 z"
+         d="m 91.660039,462.46655 a 15.971066,15.276672 0 1 1 -31.942133,0 15.971066,15.276672 0 1 1 31.942133,0 z"
          sodipodi:ry="15.276672"
          sodipodi:rx="15.971066"
          sodipodi:cy="462.46655"
@@ -5870,7 +5849,7 @@
     </g>
     <g
        id="g75338"
-       transform="translate(6.7397011,42.319977)">
+       transform="translate(6.7397011,84.319977)">
       <rect
          jessyink:effectIn="name:pop;order:5;length:800"
          style="fill:url(#radialGradient97921);fill-opacity:1;stroke:url(#radialGradient29608);stroke-width:2.17616582;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -5896,7 +5875,7 @@
          sodipodi:cy="477.62769"
          sodipodi:rx="113.23888"
          sodipodi:ry="37.324547"
-         d="m 635.14989,477.62769 c 0,20.61377 -50.69877,37.32454 -113.23888,37.32454 -62.5401,0 -113.23888,-16.71077 -113.23888,-37.32454 0,-20.61378 50.69878,-37.32455 113.23888,-37.32455 62.54011,0 113.23888,16.71077 113.23888,37.32455 z"
+         d="m 635.14989,477.62769 a 113.23888,37.324547 0 1 1 -226.47776,0 113.23888,37.324547 0 1 1 226.47776,0 z"
          transform="translate(0,32.04777)" />
       <text
          jessyink:effectIn="name:pop;order:5;length:800"
@@ -5976,7 +5955,7 @@
            sodipodi:cy="462.46655"
            sodipodi:rx="15.971066"
            sodipodi:ry="15.276672"
-           d="m 91.660039,462.46655 c 0,8.43708 -7.15049,15.27668 -15.971067,15.27668 -8.820576,0 -15.971066,-6.8396 -15.971066,-15.27668 0,-8.43707 7.15049,-15.27667 15.971066,-15.27667 8.820577,0 15.971067,6.8396 15.971067,15.27667 z"
+           d="m 91.660039,462.46655 a 15.971066,15.276672 0 1 1 -31.942133,0 15.971066,15.276672 0 1 1 31.942133,0 z"
            transform="matrix(0.6261323,0,0,0.6545928,100.09875,157.35879)" />
       </g>
     </g>
@@ -6050,7 +6029,7 @@
          sodipodi:cy="477.62769"
          sodipodi:rx="113.23888"
          sodipodi:ry="37.324547"
-         d="m 635.14989,477.62769 c 0,20.61377 -50.69877,37.32454 -113.23888,37.32454 -62.5401,0 -113.23888,-16.71077 -113.23888,-37.32454 0,-20.61378 50.69878,-37.32455 113.23888,-37.32455 62.54011,0 113.23888,16.71077 113.23888,37.32455 z"
+         d="m 635.14989,477.62769 a 113.23888,37.324547 0 1 1 -226.47776,0 113.23888,37.324547 0 1 1 226.47776,0 z"
          transform="matrix(0.6610305,0,0,1.756561,-77.27316,-571.94982)"
          jessyink:effectIn="name:pop;order:2;length:800" />
       <text
@@ -6065,7 +6044,7 @@
            id="tspan29696-2"
            x="33.67234"
            y="213.12173"
-           style="font-size:25.18955803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">Codigo </tspan><tspan
+           style="font-size:25.18955803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">Código </tspan><tspan
            sodipodi:role="line"
            x="33.67234"
            y="244.60869"
@@ -6148,7 +6127,7 @@
          sodipodi:cy="477.62769"
          sodipodi:rx="113.23888"
          sodipodi:ry="37.324547"
-         d="m 635.14989,477.62769 c 0,20.61377 -50.69877,37.32454 -113.23888,37.32454 -62.5401,0 -113.23888,-16.71077 -113.23888,-37.32454 0,-20.61378 50.69878,-37.32455 113.23888,-37.32455 62.54011,0 113.23888,16.71077 113.23888,37.32455 z"
+         d="m 635.14989,477.62769 a 113.23888,37.324547 0 1 1 -226.47776,0 113.23888,37.324547 0 1 1 226.47776,0 z"
          transform="matrix(0.769765,0,0,1.7539821,309.24528,-569.78259)"
          jessyink:effectIn="name:pop;order:2;length:800" />
       <text
@@ -6481,7 +6460,7 @@
            sodipodi:role="line">adentro</tspan></text>
       <path
          transform="matrix(0.62874988,0,0,0.72390319,4.0231421,69.695456)"
-         d="m 91.660039,462.46655 c 0,8.43708 -7.15049,15.27668 -15.971067,15.27668 -8.820576,0 -15.971066,-6.8396 -15.971066,-15.27668 0,-8.43707 7.15049,-15.27667 15.971066,-15.27667 8.820577,0 15.971067,6.8396 15.971067,15.27667 z"
+         d="m 91.660039,462.46655 a 15.971066,15.276672 0 1 1 -31.942133,0 15.971066,15.276672 0 1 1 31.942133,0 z"
          sodipodi:ry="15.276672"
          sodipodi:rx="15.971066"
          sodipodi:cy="462.46655"
@@ -6535,7 +6514,7 @@
            y="269.42496"
            x="170.82098"
            sodipodi:role="line"
-           id="tspan5304">En python la indentación es MUY importante, </tspan><tspan
+           id="tspan5304">En Python la indentación es MUY importante, </tspan><tspan
            y="304.42496"
            x="170.82098"
            sodipodi:role="line"
@@ -6543,7 +6522,7 @@
            y="339.42496"
            x="170.82098"
            sodipodi:role="line"
-           id="tspan5310">la indentación tiene esa funcion</tspan><tspan
+           id="tspan5310">la indentación tiene esa función</tspan><tspan
            y="374.42496"
            x="170.82098"
            sodipodi:role="line"
@@ -6594,12 +6573,12 @@
            y="303.22879"
            x="172.04587"
            sodipodi:role="line"
-           id="tspan10386">los editor de texto para respetar esa convencion</tspan><tspan
+           id="tspan10386">los editor de texto para respetar esa convención</tspan><tspan
            y="338.22879"
            x="172.04587"
            sodipodi:role="line"
            id="tspan10388"
-           style="fill:#ff0000;stroke:#ff0000">Si no lo haces vamos a tener errores inutiles!!!</tspan></text>
+           style="fill:#ff0000;stroke:#ff0000">Si no lo haces vamos a tener errores inútiles!!!</tspan></text>
     </g>
     <rect
        y="490.88528"
@@ -6622,7 +6601,8 @@
      style="display:none"
      inkscape:label="Las variables"
      inkscape:groupmode="layer"
-     id="layer3">
+     id="layer3"
+     sodipodi:insensitive="true">
     <g
        id="g33976">
       <g
@@ -6696,7 +6676,7 @@
            sodipodi:role="line"
            x="191.04449"
            y="180.51945"
-           id="tspan195602-6">Sequencia de letras de a-&gt;z / A-&gt;Z y de numeros</tspan><tspan
+           id="tspan195602-6">Secuencia de letras de a-&gt;z / A-&gt;Z y de números</tspan><tspan
            sodipodi:role="line"
            x="191.04449"
            y="215.51945"
@@ -6781,7 +6761,7 @@
              id="tspan7859-7"
              y="257.65308"
              x="296.9386"
-             sodipodi:role="line">Podemos hacer asignaciones multiple</tspan></text>
+             sodipodi:role="line">Podemos hacer asignaciones múltiple</tspan></text>
         <path
            transform="translate(128.70648,-23.775394)"
            style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -6813,11 +6793,11 @@
            id="tspan7859-7-4"
            y="569.25513"
            x="260.7576"
-           sodipodi:role="line">Podemos occupar operadores mas rapido como +=, -=, etc </tspan><tspan
+           sodipodi:role="line">Podemos ocupar operadores mas rápido como +=, -=, etc </tspan><tspan
            y="604.25513"
            x="260.7576"
            sodipodi:role="line"
-           id="tspan7564">con culquier tipo de datos</tspan></text>
+           id="tspan7564">con cualquier tipo de datos</tspan></text>
       <path
          transform="translate(92.525485,287.82664)"
          style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -6870,7 +6850,7 @@
            sodipodi:role="line"
            x="374.97632"
            y="257.65308"
-           id="tspan7859-2">Podemos multiplicar sting con integer para repitirlas</tspan></text>
+           id="tspan7859-2">Podemos multiplicar string con integer para repetirlas</tspan></text>
       <path
          d="m 146.57654,277.8847 -10.90635,-1.50058 -7.30149,8.23945 -1.94311,-10.83626 -10.09247,-4.398 9.70544,-5.1966 1.064,-10.95756 7.94141,7.62458 10.75006,-2.37414 -4.79739,9.90885 5.5799,9.49026 z"
          id="path7869-8"
@@ -6890,7 +6870,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Instrucciones basicas"
      inkscape:groupmode="layer"
      id="layer10">
@@ -6911,7 +6891,7 @@
              id="tspan7859-7-5"
              y="131.70854"
              x="367.42621"
-             sodipodi:role="line">Los operadores de comparacion</tspan><tspan
+             sodipodi:role="line">Los operadores de comparación</tspan><tspan
              y="166.70854"
              x="367.42621"
              sodipodi:role="line"
@@ -6946,7 +6926,7 @@
              y="335.69315"
              x="543.48645"
              sodipodi:role="line"
-             id="tspan93372-1">El % permite de tener el resto de una division</tspan></text>
+             id="tspan93372-1">El % permite de tener el resto de una división</tspan></text>
         <path
            transform="translate(375.25432,54.264692)"
            style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -6978,7 +6958,7 @@
              y="335.69315"
              x="543.48645"
              sodipodi:role="line"
-             id="tspan93372-1-2">Cada linea de instruccion se termina con dos puntos &quot;:&quot;</tspan></text>
+             id="tspan93372-1-2">Cada linea de instrucción se termina con dos puntos &quot;:&quot;</tspan></text>
         <path
            transform="translate(375.25432,54.264692)"
            style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -7133,7 +7113,7 @@
            y="131.70854"
            x="367.42621"
            sodipodi:role="line"
-           id="tspan72415">En python, es muy facil de manejar listas</tspan></text>
+           id="tspan72415">En Python, es muy fácil de manejar listas</tspan></text>
       <path
          transform="translate(199.19409,-149.71992)"
          style="fill:#ffcd01;fill-opacity:1;stroke:#d98400;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -7190,7 +7170,7 @@
                y="131.70854"
                x="367.42621"
                sodipodi:role="line"
-               id="tspan72415-3">Se pueden agragar cualquier dato en un lista</tspan></text>
+               id="tspan72415-3">Se pueden agregar cualquier dato en un lista</tspan></text>
         </g>
         <path
            sodipodi:type="arc"
@@ -7200,7 +7180,7 @@
            sodipodi:cy="462.46655"
            sodipodi:rx="15.971066"
            sodipodi:ry="15.276672"
-           d="m 91.660039,462.46655 c 0,8.43708 -7.15049,15.27668 -15.971067,15.27668 -8.820576,0 -15.971066,-6.8396 -15.971066,-15.27668 0,-8.43707 7.15049,-15.27667 15.971066,-15.27667 8.820577,0 15.971067,6.8396 15.971067,15.27667 z"
+           d="m 91.660039,462.46655 a 15.971066,15.276672 0 1 1 -31.942133,0 15.971066,15.276672 0 1 1 31.942133,0 z"
            transform="matrix(0.6261323,0,0,0.6545928,185.58224,-33.182301)" />
       </g>
     </g>
@@ -7232,7 +7212,7 @@
                  y="131.70854"
                  x="367.42621"
                  sodipodi:role="line"
-                 id="tspan72415-3-3">Documentation page: </tspan><tspan
+                 id="tspan72415-3-3">Documentación page: </tspan><tspan
                  id="tspan7778"
                  y="166.70854"
                  x="367.42621"
@@ -7245,7 +7225,7 @@
                sodipodi:cy="462.46655"
                sodipodi:rx="15.971066"
                sodipodi:ry="15.276672"
-               d="m 91.660039,462.46655 c 0,8.43708 -7.15049,15.27668 -15.971067,15.27668 -8.820576,0 -15.971066,-6.8396 -15.971066,-15.27668 0,-8.43707 7.15049,-15.27667 15.971066,-15.27667 8.820577,0 15.971067,6.8396 15.971067,15.27667 z"
+               d="m 91.660039,462.46655 a 15.971066,15.276672 0 1 1 -31.942133,0 15.971066,15.276672 0 1 1 31.942133,0 z"
                transform="matrix(0.6261323,0,0,0.6545928,185.58224,-33.182301)" />
           </g>
         </g>
@@ -7278,7 +7258,7 @@
                id="tspan7853"
                sodipodi:role="line"
                x="367.42621"
-               y="131.70854">El for se occupa con listas</tspan></text>
+               y="131.70854">El for se ocupa con listas</tspan></text>
           <path
              d="m 146.57654,277.8847 -10.90635,-1.50058 -7.30149,8.23945 -1.94311,-10.83626 -10.09247,-4.398 9.70544,-5.1966 1.064,-10.95756 7.94141,7.62458 10.75006,-2.37414 -4.79739,9.90885 5.5799,9.49026 z"
              id="path7855"
@@ -7339,7 +7319,7 @@
          id="tspan17306"
          sodipodi:role="line"
          x="145.52373"
-         y="261.97824">Para pedir datos al usuario, hay que occupar la función</tspan><tspan
+         y="261.97824">Para pedir datos al usuario, hay que ocupar la función</tspan><tspan
          id="tspan17318"
          sodipodi:role="line"
          x="145.52373"
@@ -7430,12 +7410,12 @@
            x="153.73257"
            y="262.02319"
            id="tspan24976"
-           style="font-size:28px">vamos  a  occupar  archivos  texto   para  permitir  de </tspan><tspan
+           style="font-size:28px">vamos  a  ocupar  archivos  texto   para  permitir  de </tspan><tspan
            sodipodi:role="line"
            x="153.73257"
            y="297.02319"
            id="tspan24992"
-           style="font-size:28px">programar funciones, classe... </tspan><tspan
+           style="font-size:28px">programar funciones, clase... </tspan><tspan
            sodipodi:role="line"
            x="153.73257"
            y="332.02319"
@@ -7483,7 +7463,7 @@
            id="tspan71109"
            x="140.96204"
            y="396.22784"
-           style="font-size:28px">Lo unico para empezar a programar en python es que</tspan><tspan
+           style="font-size:28px">Lo único para empezar a programar en python es que</tspan><tspan
            sodipodi:role="line"
            x="140.96204"
            y="431.22784"
@@ -7526,7 +7506,7 @@
            x="140.96204"
            y="396.22784"
            id="tspan71115-1"
-           style="font-size:28px">Para executar un archivo python en un terminal:</tspan></text>
+           style="font-size:28px">Para ejecutar un archivo python en un terminal:</tspan></text>
       <path
          d="m 146.57654,277.8847 -10.90635,-1.50058 -7.30149,8.23945 -1.94311,-10.83626 -10.09247,-4.398 9.70544,-5.1966 1.064,-10.95756 7.94141,7.62458 10.75006,-2.37414 -4.79739,9.90885 5.5799,9.49026 z"
          id="path67729-17-6-8"
@@ -7612,7 +7592,7 @@
            sodipodi:role="line"
            x="165.26582"
            y="230.4268"
-           id="tspan29704">Para programar en python, poden occupar varios</tspan><tspan
+           id="tspan29704">Para programar en Python, poden ocupar varios</tspan><tspan
            sodipodi:role="line"
            x="165.26582"
            y="265.42682"
@@ -7638,7 +7618,7 @@
            sodipodi:role="line"
            x="78.749435"
            y="432.2139"
-           id="tspan29838">http://pydev.org/ </tspan></text>
+           id="tspan29838">http://Pydev.org/ </tspan></text>
       <path
          sodipodi:type="arc"
          style="fill:#ffcd01;fill-opacity:1;fill-rule:nonzero;stroke:#d98400;stroke-width:4.68600321;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -7647,7 +7627,7 @@
          sodipodi:cy="462.46655"
          sodipodi:rx="15.971066"
          sodipodi:ry="15.276672"
-         d="m 91.660039,462.46655 c 0,8.43708 -7.15049,15.27668 -15.971067,15.27668 -8.820576,0 -15.971066,-6.8396 -15.971066,-15.27668 0,-8.43707 7.15049,-15.27667 15.971066,-15.27667 8.820577,0 15.971067,6.8396 15.971067,15.27667 z"
+         d="m 91.660039,462.46655 a 15.971066,15.276672 0 1 1 -31.942133,0 15.971066,15.276672 0 1 1 31.942133,0 z"
          transform="matrix(0.62874988,0,0,0.72390319,4.0231421,69.695456)" />
     </g>
     <g
@@ -7670,7 +7650,7 @@
            sodipodi:role="line"
            x="78.749435"
            y="432.2139"
-           id="tspan29785">http://projects.gnome.org/gedit/</tspan></text>
+           id="tspan29785">http://projects.gnome.org/Gedit/</tspan></text>
       <path
          sodipodi:type="arc"
          style="fill:#ffcd01;fill-opacity:1;fill-rule:nonzero;stroke:#d98400;stroke-width:4.68600321;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -7679,7 +7659,7 @@
          sodipodi:cy="462.46655"
          sodipodi:rx="15.971066"
          sodipodi:ry="15.276672"
-         d="m 91.660039,462.46655 c 0,8.43708 -7.15049,15.27668 -15.971067,15.27668 -8.820576,0 -15.971066,-6.8396 -15.971066,-15.27668 0,-8.43707 7.15049,-15.27667 15.971066,-15.27667 8.820577,0 15.971067,6.8396 15.971067,15.27667 z"
+         d="m 91.660039,462.46655 a 15.971066,15.276672 0 1 1 -31.942133,0 15.971066,15.276672 0 1 1 31.942133,0 z"
          transform="matrix(0.62874988,0,0,0.72390319,4.0231421,69.695456)" />
     </g>
     <g
@@ -7698,7 +7678,7 @@
            sodipodi:role="line"
            x="78.749435"
            y="395.33069"
-           id="tspan29830">Vim o Emac: los mejores editor de texto, necessita </tspan><tspan
+           id="tspan29830">Vim o Emac: los mejores editor de texto, necesita </tspan><tspan
            sodipodi:role="line"
            x="78.749435"
            y="432.2139"
@@ -7711,7 +7691,7 @@
          sodipodi:cy="462.46655"
          sodipodi:rx="15.971066"
          sodipodi:ry="15.276672"
-         d="m 91.660039,462.46655 c 0,8.43708 -7.15049,15.27668 -15.971067,15.27668 -8.820576,0 -15.971066,-6.8396 -15.971066,-15.27668 0,-8.43707 7.15049,-15.27667 15.971066,-15.27667 8.820577,0 15.971067,6.8396 15.971067,15.27667 z"
+         d="m 91.660039,462.46655 a 15.971066,15.276672 0 1 1 -31.942133,0 15.971066,15.276672 0 1 1 31.942133,0 z"
          transform="matrix(0.62874988,0,0,0.72390319,4.0231421,69.695456)" />
     </g>
   </g>
@@ -7763,7 +7743,7 @@
            y="278.70801"
            x="182.42322"
            sodipodi:role="line"
-           id="tspan29886">En python, el self  corresponde  al  “this” en C++/java, </tspan><tspan
+           id="tspan29886">En Python, el self  corresponde  al  “this” en C++/java, </tspan><tspan
            y="312.64426"
            x="182.42322"
            sodipodi:role="line"
@@ -7835,7 +7815,7 @@
              id="tspan29890-6"
              sodipodi:role="line"
              x="182.42322"
-             y="282.09045">La herencia se describe cuando declaramos la classe:</tspan><tspan
+             y="282.09045">La herencia se describe cuando declaramos la clase:</tspan><tspan
              id="tspan50114"
              sodipodi:role="line"
              x="182.42322"
@@ -7856,7 +7836,7 @@
            sodipodi:cy="462.46655"
            sodipodi:rx="15.971066"
            sodipodi:ry="15.276672"
-           d="m 91.660039,462.46655 c 0,8.43708 -7.15049,15.27668 -15.971067,15.27668 -8.820576,0 -15.971066,-6.8396 -15.971066,-15.27668 0,-8.43707 7.15049,-15.27667 15.971066,-15.27667 8.820577,0 15.971067,6.8396 15.971067,15.27667 z"
+           d="m 91.660039,462.46655 a 15.971066,15.276672 0 1 1 -31.942133,0 15.971066,15.276672 0 1 1 31.942133,0 z"
            transform="matrix(0.61699541,0,0,0.62452077,115.70573,-20.217014)" />
       </g>
     </g>
@@ -7925,7 +7905,7 @@
            sodipodi:cy="462.46655"
            sodipodi:rx="15.971066"
            sodipodi:ry="15.276672"
-           d="m 91.660039,462.46655 c 0,8.43708 -7.15049,15.27668 -15.971067,15.27668 -8.820576,0 -15.971066,-6.8396 -15.971066,-15.27668 0,-8.43707 7.15049,-15.27667 15.971066,-15.27667 8.820577,0 15.971067,6.8396 15.971067,15.27667 z"
+           d="m 91.660039,462.46655 a 15.971066,15.276672 0 1 1 -31.942133,0 15.971066,15.276672 0 1 1 31.942133,0 z"
            transform="matrix(0.61699541,0,0,0.62452077,115.70573,-20.217014)" />
       </g>
     </g>
@@ -7967,7 +7947,7 @@
            id="tspan29850-2"
            y="256.27954"
            x="213.29614"
-           sodipodi:role="line">Ejemplo de classe:</tspan></text>
+           sodipodi:role="line">Ejemplo de clase:</tspan></text>
     </g>
     <text
        jessyink:effectIn="name:pop;order:2;length:800"
@@ -7980,18 +7960,16 @@
          x="115.13413"
          sodipodi:role="line"
          id="tspan49832"><tspan
-   id="tspan44534"
-   style="fill:#ffff00">class</tspan><tspan
    id="tspan44546"
-   style="fill:#008000"> time</tspan>():</tspan><tspan
+   style="fill:#008000">clase time</tspan>():</tspan><tspan
          y="330.0173"
          x="115.13413"
          sodipodi:role="line"
-         id="tspan49840">    def     __init__(self, hora=0, minutos=0, secondos=0):</tspan><tspan
+         id="tspan49840">    def     __init__(self, hora=0, minutos=0, segundos=0):</tspan><tspan
          y="360.71426"
          x="115.13413"
          sodipodi:role="line"
-         id="tspan49842">        print &quot;Instanciación de la classe \n&quot;</tspan><tspan
+         id="tspan49842">        print &quot;Instanciación de la clase \n&quot;</tspan><tspan
          y="391.41119"
          x="115.13413"
          sodipodi:role="line"
@@ -8003,7 +7981,7 @@
          y="452.80508"
          x="115.13413"
          sodipodi:role="line"
-         id="tspan49848">        self.secondos = secondos</tspan><tspan
+         id="tspan49848">        self.segundos = segundos</tspan><tspan
          y="483.50201"
          x="115.13413"
          sodipodi:role="line"
@@ -8031,7 +8009,7 @@
          y="667.68365"
          x="115.13413"
          sodipodi:role="line"
-         id="tspan49862">                 minutos&quot;, str (self.secondos), &quot; secondos&quot;</tspan><tspan
+         id="tspan49862">                 minutos&quot;, str (self.segundos), &quot; segundos&quot;</tspan><tspan
          y="698.38062"
          x="115.13413"
          sodipodi:role="line"
@@ -8090,7 +8068,7 @@
              id="tspan68159"
              y="256.27954"
              x="213.29614"
-             sodipodi:role="line">La función &quot;main&quot; se hace asi:</tspan></text>
+             sodipodi:role="line">La función &quot;main&quot; se hace así:</tspan></text>
       </g>
       <text
          id="text68157-6"
@@ -8240,7 +8218,7 @@
              id="tspan21596-2"
              sodipodi:role="line"
              x="213.29622"
-             y="621.35846">Para occupar el modulo hay que importarlo como lo vimos </tspan><tspan
+             y="621.35846">Para ocupar el modulo hay que importarlo como lo vimos </tspan><tspan
              sodipodi:role="line"
              x="213.29622"
              y="656.35846"
@@ -8432,7 +8410,7 @@
                  id="tspan29497"
                  sodipodi:role="line"
                  x="423.61838"
-                 y="394.41589">Agregar una cancion que contiene:</tspan><tspan
+                 y="394.41589">Agregar una canción que contiene:</tspan><tspan
                  sodipodi:role="line"
                  x="423.61838"
                  y="429.41589"
@@ -8527,7 +8505,7 @@
              y="394.41589"
              x="423.61838"
              sodipodi:role="line"
-             id="tspan29497-3">Album</tspan><tspan
+             id="tspan29497-3">Álbum</tspan><tspan
              id="tspan67798-38"
              y="429.41589"
              x="423.61838"
@@ -8595,7 +8573,7 @@
                id="tspan67798-2"
                y="394.41589"
                x="423.61838"
-               sodipodi:role="line">Buscar una cancion</tspan></text>
+               sodipodi:role="line">Buscar una canción</tspan></text>
         </g>
       </g>
       <g
@@ -8624,7 +8602,7 @@
              id="tspan67798-1"
              y="391.96613"
              x="413.81934"
-             sodipodi:role="line">&quot;Imprimir&quot; una cancion</tspan></text>
+             sodipodi:role="line">&quot;Imprimir&quot; una canción</tspan></text>
       </g>
       <g
          id="g67800-69"
@@ -8690,7 +8668,7 @@
                sodipodi:role="line"
                x="213.29614"
                y="256.27954"
-               id="tspan67779-8">Implementar una classe main para probar la classe</tspan></text>
+               id="tspan67779-8">Implementar una clase main para probar la clase</tspan></text>
         </g>
       </g>
     </g>
